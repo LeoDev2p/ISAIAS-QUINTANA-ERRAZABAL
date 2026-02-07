@@ -3,12 +3,7 @@
 Portafolio web personal como **Desarrollador Junior**, enfocado en mostrar proyectos reales, habilidades técnicas y enlaces a demos funcionales.
 
 ## Tecnologías
-- HTML5
-- CSS3
-- JavaScript
-- AOS
-- Lucide Icons
-- GitHub Pages
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## Contenido
 - Presentación profesional
@@ -16,21 +11,9 @@ Portafolio web personal como **Desarrollador Junior**, enfocado en mostrar proye
 - Proyectos con repositorio y demo
 - Enlaces de contacto (GitHub, LinkedIn, email)
 
-## 📦 Estructura del Proyecto
-
-```text
-/Portafolio
-│
-├── index.html    # Estructura principal
-├── style.css     # Estilos y diseño responsivo
-├── script.js    # Animaciones y lógica dinámica
-├── README.md     # Documentación (este archivo)
-└── /img          # Directorio para imágenes y capturas
-```
-
 
 ## Demo
 🔗 https://whoamy2p.github.io/ISAIAS-QUINTANA-ERRAZABAL/
 
 ---
-Hecho con ❤️ por Isaias Cesar Quintana Errazabal.
+Isaias Cesar Quintana Errazabal - Desarrollador Jr.
